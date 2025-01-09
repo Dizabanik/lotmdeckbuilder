@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jud",
+				"judasKilledEnts"
+			],
+			[
+				"fa",
+				"familiar"
+			],
+			[
+				"sh",
+				"shotD"
+			],
+			[
+				"los",
+				"lostAddDMG"
+			],
+			[
+				"Add",
+				"AddNullCostume"
+			],
+			[
+				"ite",
+				"itemToAddD"
+			],
+			[
+				"Ha",
+				"HasCollectible"
+			],
+			[
+				"dic",
+				"diceItem"
+			],
+			[
+				"item",
+				"itemToRem"
+			],
+			[
+				"la",
+				"lastItem"
+			],
+			[
+				"l",
+				"lastItem"
+			],
+			[
+				"re",
+				"remHearts"
+			],
+			[
+				"CA",
+				"CACHE_TEARFLAG"
+			],
+			[
+				"is",
+				"isKilled"
+			],
+			[
+				"Ca",
+				"CACHE_TEARCOLOR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/mugen1/system.def",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/init.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/fp.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/maux.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/mugen.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/test.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/vector.lua",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/logo.def",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/select.def",
+		"/C/Users/Usr79/Downloads/EOTS RELEASE 1.01/Patching Instructions.txt",
+		"/E/Games/Elden/Read_Me_Instructions.txt",
+		"/E/000 ІРА/ИРА/Для рекламы/Фото для сайта и гугла/.picasa.ini",
+		"/E/000 ІРА/ИРА/Для рекламы/ссылка на сайт с иконками.txt",
+		"/E/000 ІРА/ИРА/Для рекламы/ответ по коронкам.txt",
+		"/E/Games/Jump Force Mugen V13/Новый текстовый документ.txt",
+		"/E/000 ІРА/ИРА/Для рекламы/.picasa.ini",
+		"/E/000 ІРА/ИРА/Для рекламы/лозунги.txt",
+		"/C/Users/Usr79/Downloads/walt/in/13.in",
+		"/C/Users/Usr79/Desktop/MTG_DECKS",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Steamodded-main/example_mods/Mods/UltimateRandom.lua",
+		"/E/FromNote/LOTM/main.lua",
+		"/C/Users/Usr79/curseforge/minecraft/Instances/Mag/crash-reports/crash-2024-08-25_15.09.42-client.txt",
+		"/C/Users/Usr79/curseforge/minecraft/Instances/EPF/crash-reports/crash-2024-08-25_22.04.22-client.txt",
+		"/E/000 ІРА/ИРА/Для рекламы/Фото для сайта и гугла/.picasaoriginals/.picasaoriginals/.picasa.ini",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/Wing/crash-reports/crash-2024-08-31_17.13.26-fml.txt",
+		"/C/Program Files/dotnet/shared/Microsoft.AspNetCore.App/8.0.8/THIRD-PARTY-NOTICES.txt",
+		"/C/Program Files/dotnet/shared/eula.txt",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/Wing (1)/crash-reports/crash-2024-09-02_22.04.20-fml.txt",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/Wing (2)/crash-reports/crash-2024-09-03_16.14.51-fml.txt",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn (1)/config/bosses_of_mass_destruction.json5",
+		"/E/000 ІРА/ИРА/СBCT 26-27-28 OneDrive_2024-08-25/Iryna Kotiuk/Kotiuk_Iryna_20240823_183453/FilesManager.xml",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/CodexArcanum/CA_Overrides.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/AbsoluteDeck.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Deck Creator/GUI.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Steamodded-main/src/ui.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/CodexArcanum/CodexArcanum.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Bunco-main/Bunco.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/CardSleeves-1.4.8/CardSleeves.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/MoreFluff/other/colours.lua",
+		"/C/Users/Usr79/Downloads/walt/out/13.out",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/lovely/dump/card.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Cryptid/Items/Enhanced.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Cryptid/Cryptid.lua",
+		"/C/Temp/Rar$DIa16576.19016/KusoMods.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Reverie/Reverie.lua",
+		"/C/Users/Usr79/AppData/Roaming/Balatro/Mods/Steamodded-main/example_mods/Mods/RoyalFlush/RoyalFlush.lua",
+		"/E/Downloads/Platinum-Mythic-Rank Player.txt",
+		"/E/ranoberead/flutter_application_1/windows/runner/CMakeLists.txt",
+		"/C/Users/Usr79/Downloads/walt/in/0.in",
+		"/C/Users/Usr79/Downloads/walt/in/3858.in",
+		"/C/Users/Usr79/Downloads/walt/in/401.in",
+		"/C/Users/Usr79/Downloads/walt/in/250.in",
+		"/C/Users/Usr79/Downloads/walt/in/126.in",
+		"/C/Users/Usr79/Downloads/walt/in/26.in",
+		"/C/Users/Usr79/Downloads/walt/in/8.in",
+		"/C/Users/Usr79/Downloads/walt/in/12.in",
+		"/C/Users/Usr79/Downloads/walt/out/12.out",
+		"/E/000 ІРА/ИРА/Для рекламы/ссылка на сайт с иеогками.txt",
+		"/E/Games/Elden/Elden Ring/ModEngine-2.0.0-preview3-win64/README.txt",
+		"/C/Users/Usr79/Downloads/EOTS RELEASE 1.01/README.txt",
+		"/C/Temp/Rar$DIa9136.14436/Read Me.txt",
+		"/C/Temp/Rar$DIa10012.956/bgb.ini",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/Wing (1)/crash-reports/crash-2024-09-10_17.08.26-fml.txt",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/RealisticCraft/data/fabricDefaultResourcePacks.dat",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/RealisticCraft/options.txt",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn/config/epicknights/weapons.json5",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn/config/epicknights/general.json5",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn/config/epicknights/mobs_equipment.json5",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn/config/epicknights/shields.json5",
+		"/C/Users/Usr79/AppData/Roaming/ModrinthApp/profiles/nnn/config/epicknights/armor.json5",
+		"/E/Downloads/undefined.nbt",
+		"/C/Temp/Rar$DIa13132.14724/AdaptDigProcedure.class",
+		"/C/Temp/Rar$DIa13132.18731/MahoragaModModVariables.class",
+		"/C/Temp/Rar$DIa13132.13297/MahoragaWeaknessCommand.class",
+		"/C/Users/Usr79/curseforge/minecraft/Instances/EPF/crash-reports/crash-2024-08-26_14.26.14-server.txt",
+		"/E/Downloads/Adrenaline-1.23.1+1.20.1.fabric.mrpack",
+		"/C/Users/Usr79/curseforge/minecraft/Instances/Mag/crash-reports/crash-2024-08-25_14.59.17-client.txt",
+		"/C/Users/Usr79/curseforge/minecraft/Instances/Mag/crash-reports/crash-2024-08-25_15.01.33-client.txt",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/mugen1/fight.def",
+		"/C/Temp/Rar$DIa13704.29395/instalación.txt",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/font/enter48.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/font/name.def",
+		"/E/Games/Gog/Rain World/BepInEx/cache/chainloader_typeloader.dat",
+		"/E/Games/Gog/Rain World/goglog.ini",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/GameVersion.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/whitelist.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/mods/expedition/randomstarts.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/Plugins/Steamworks.NET.txt",
+		"/E/Games/Gog/Rain World/goggame-galaxyFileList.ini",
+		"/E/FromNote/codewars/regex/main.c",
+		"/D/SteamLibrary/steamapps/common/The Binding of Isaac Rebirth/data/encyclopedia/save1.dat",
+		"/D/SteamLibrary/steamapps/common/The Binding of Isaac Rebirth/mods/!better vanilla apollyons_3035686305/metadata.xml",
+		"/D/SteamLibrary/steamapps/common/The Binding of Isaac Rebirth/mods/!better vanilla apollyons_3035686305/apo_scripts/helpers.lua",
+		"/D/SteamLibrary/steamapps/common/The Binding of Isaac Rebirth/mods/!better vanilla apollyons_3035686305/main.lua",
+		"/E/SteamLibrary/steamapps/common/DarkestDungeon/user_information/user_information.darkest",
+		"/D/Games/Nuclear_Throne_v06.11.2017/Nuclear_Throne_v06.11.2017/mods/mds/main.txt",
+		"/D/Games/Nuclear_Throne_v06.11.2017/Nuclear_Throne_v06.11.2017/ALI213.ini",
+		"/C/Users/Usr79/AppData/Local/nuclearthrone/data/saveedit.mod/NuclearThrone.sav",
+		"/C/Users/Usr79/AppData/Local/nuclearthrone/NuclearThrone.sav",
+		"/C/Users/Usr79/Downloads/wniosek-7422948.xml",
+		"/C/Users/Usr79/Downloads/wniosek-7422948 (1).xml",
+		"/C/Users/Usr79/Downloads/p4jw23vqelnfgtexeollqmzqvnqyb83volojihdz_1.xml",
+		"/C/Users/Usr79/Downloads/p4jw23vqelnfgtexeollqmzqvnqyb83volojihdz_1 (1).xml",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/mods/3158949334 Genetic Slugpups/modinfo.json",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/stages/Yuta's Domain.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/select.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/graphics/Main_Menu.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/big/system.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/big/readme.txt",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/stages/Jujutsu Kaisen.def",
+		"/E/Games/Jump Force Mugen V13/Jump Force Mugen V13/data/select.def",
+		"/C/Users/Usr79/Downloads/plaguemon/dontreadme.txt",
+		"/E/000 HomeDent/SITE IRA HOMEDENT/2023 -  изменения и удаления/Удалено карантин/Новый текстовый документ.txt",
+		"/E/Downloads/ClearVision_v6.theme.css",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/world/checksum.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/world/worldversion.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/world/default alignments.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/world/sb/displayname.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/globalgamemanagers",
+		"/E/Games/Gog/Rain World/doorstop_config.ini",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/enabledMods.txt",
+		"/E/Games/Gog/Rain World/RainWorld_Data/StreamingAssets/enabledModsVersion.txt",
+		"/E/Games/Jump Force Mugen V13/mugen-1.1b1/data/mugen1/system2.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/data/mugen1/system.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/chars/Gojo(Infinite Venerable)/Gojo(Infinite Venerable).def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/chars/Tanjiro V.4/Tanjiro V.4.def",
+		"/E/Games/Jump Force Mugen V13/JUJUTSU KAISEN V2 SP/chars/Juuzou2/Juuzou2.def",
+		"/E/Games/MOP-5.4.8.18414-enUS-Repack/WTF/Config.wtf"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 325.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"sace2.dat",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mainMenu",
+			"Tag",
+			"Booster",
+			"sa",
+			"20,20",
+			"Tanjiro",
+			"Kaneki",
+			"Sukuna",
+			"JX_Shizuku",
+			"Gura",
+			"Gojo",
+			"color",
+			"link",
+			"    \n",
+			"font",
+			"charData_11",
+			"AddFlatDamage",
+			"faminetext",
+			"str",
+			"true",
+			"false",
+			"Spawn",
+			"UI",
+			"Render",
+			"init",
+			"DAMAGE_MULTIPLIER_JUD",
+			"CanFly",
+			"Mod",
+			"179",
+			"updateClone",
+			"179",
+			"init",
+			"lastItem",
+			"player_save",
+			"GetPlayerNumber",
+			"GenerateItem",
+			"IsQuestItem",
+			"bigRedButton",
+			"MyCharacterMod2",
+			"Damage",
+			"damage",
+			"DESCENT.ID",
+			",1,",
+			"1,",
+			"93",
+			"92"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"false",
+			"true",
+			"div1",
+			"CTier"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
